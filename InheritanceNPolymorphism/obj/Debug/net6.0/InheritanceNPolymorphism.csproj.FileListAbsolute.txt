@@ -1,0 +1,14 @@
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\bin\Debug\net6.0\InheritanceNPolymorphism.exe
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\bin\Debug\net6.0\InheritanceNPolymorphism.deps.json
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\bin\Debug\net6.0\InheritanceNPolymorphism.runtimeconfig.json
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\bin\Debug\net6.0\InheritanceNPolymorphism.dll
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\bin\Debug\net6.0\InheritanceNPolymorphism.pdb
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.AssemblyInfoInputs.cache
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.AssemblyInfo.cs
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.dll
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\refint\InheritanceNPolymorphism.dll
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.pdb
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\InheritanceNPolymorphism.genruntimeconfig.cache
+C:\Users\zoria\source\repos\InheritanceNPolymorphism\InheritanceNPolymorphism\obj\Debug\net6.0\ref\InheritanceNPolymorphism.dll
